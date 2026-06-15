@@ -1,13 +1,38 @@
-MIT License
+CUSTOM ACADEMIC & PROFESSIONAL NON-COMMERCIAL USE LICENSE
 
 Copyright (c) 2026 himanshukumar070404-star
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, exclusively to active college students 
+and working professionals, to use, execute, and suggest modifications to this Software 
+for educational, research, personal development, or non-commercial optimization purposes, 
+subject to the following strict conditions:
+
+1. Strict Ban on Corporate Deployment & Monetization: Deploying this Software, its source 
+   code, or any derivative works for any corporate commercial gain, enterprise operations, 
+   or company monetization is strictly prohibited. Working professionals may interact with 
+   this code solely for individual professional development, standalone research, or 
+   suggesting architectural improvements. It shall not be embedded into proprietary corporate 
+   products, used to run internal company services, or leveraged to generate revenue in 
+   any business or production environment.
+
+2. Permitted Modifications: Only important, substantive, and necessary modifications 
+   required to adapt, optimize, or integrate this Software into your specific academic or 
+   individual professional development projects are permitted. Trivial, superficial, or 
+   decorative alterations of the core source code, author headers, or branding to mask 
+   authorship are strictly prohibited.
+
+3. Prohibitions on Distribution & Duplication: You may not make unauthorized, bulk copies 
+   of this Software for public redistribution, mirroring, or republishing outside of your 
+   personal or internal educational/professional environment. All permitted forks or copies 
+   must maintain this exact license file.
+
+4. Commercial Restriction: You shall not sell, lease, rent, license, sub-license, or 
+   otherwise commercially exploit the Software or its underlying assets under any circumstances.
+
+5. Conduct & Misuse: You shall not engage in any mischievous, malicious, unethical, or 
+   illegal activity regarding this Software, including but not limited to academic plagiarism, 
+   unauthorized vulnerability exploitation, or using the telemetry infrastructure to cause 
+   intentional disruption to external hardware networks.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
@@ -17,5 +42,5 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE   
 SOFTWARE.
